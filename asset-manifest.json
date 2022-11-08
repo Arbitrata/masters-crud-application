@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/masters-crud-application/static/css/main.6b607c63.css",
+    "main.js": "/masters-crud-application/static/js/main.33819cfd.js",
+    "index.html": "/masters-crud-application/index.html",
+    "main.6b607c63.css.map": "/masters-crud-application/static/css/main.6b607c63.css.map",
+    "main.33819cfd.js.map": "/masters-crud-application/static/js/main.33819cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b607c63.css",
+    "static/js/main.33819cfd.js"
+  ]
+}
